@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **.**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Shuggy-99?tab=repositories)
+- 👨‍💻 Some of my projects are available [here](https://github.com/Shuggy-99?tab=repositories)
 
 - 📫 How to reach me **shadman.ahmed99@protonmail.com**
 
