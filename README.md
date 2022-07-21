@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shuggy_99" target="blank"><img src="https://img.shields.io/twitter/follow/shadman?logo=twitter&style=for-the-badge" alt="shadman" /></a> </p>
 
-- 📝 My personal website is at 
+- 📝 My personal website is [here](https://shuggy-99.github.io/Personal-Website/)
 
 - 🔭 I’m currently working on [.](.)
 
